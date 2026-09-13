@@ -241,4 +241,4 @@ This repository serves as the official landing page for Music Tag. The software 
 **Get the most recent version of Music Tag today!**
 
 ---
-**Last updated:** 2026-09-13 17:57:13 UTC
+**Last updated:** 2026-09-13 20:38:20 UTC
